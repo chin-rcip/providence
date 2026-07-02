@@ -31,6 +31,7 @@ $footer_color = $this->request->config->get('footer_color');
 				</div><!-- end mainContent -->
 				<div style="clear:both;"><!-- EMPTY --></div>
 			</div><!-- end main -->
+			<p>Latest changes on Canada Day!</p>
 		<div id="footerContainer" style="background-color:#<?= $footer_color; ?>;">
 			<div id="footer" ><div style="position: relative;">
 <?php
